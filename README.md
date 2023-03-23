@@ -11,7 +11,7 @@ SUBSCRIBE YOUTUBE FahaddXD
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* WhatsApp Bot Multi Sessions [`THEJO307/jo-v-10`](https://github.com/yushafahad17/bebek)
+* WhatsApp Bot Multi Sessions [`THEJO307/jo-v-10`](https://github.com/yushafahad17/BOT-BUG-V2)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -22,7 +22,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/yushafahad17/bebek
+git https://github.com/yushafahad17/BOT-BUG-V2
 cd (Nama Folder)
 npm install
 ```
@@ -43,7 +43,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/yushafahad17/bebek
+git clone https://github.com/yushafahad17/BOT-BUG-V2
 cd (Nama Folder)
 npm install
 ```
