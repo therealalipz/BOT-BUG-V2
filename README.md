@@ -4,16 +4,14 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">THE_JO_BOT</h1>
-SUBSCRIBE YOUTUBE THE JO BOT
-* [`YouTube`](https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w)
+<h1 align="center">FahaddXD</h1>
+SUBSCRIBE YOUTUBE FahaddXD
+* [`YouTube`](https://youtube.com/@FahaddXD)
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
-* WhatsApp Bot Multi Device [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
+* WhatsApp Bot Multi Sessions [`THEJO307/jo-v-10`](https://github.com/yushafahad17/bebek)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -24,8 +22,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/jo-v-10
-cd jo-v-10
+git https://github.com/yushafahad17/bebek
+cd (Nama Folder)
 npm install
 ```
 
@@ -45,8 +43,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/THEJO307/jo-v-10
-cd jo-v-10
+git clone https://github.com/yushafahad17/bebek
+cd (Nama Folder)
 npm install
 ```
 
